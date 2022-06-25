@@ -1,22 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h1>Welkom naar Fotopijt!</h1>
+        <h3>Onze website gaat gauw active zijn.</h3>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Vraag stellen:<br />
+          <b>Telefoon:</b>  (+31) 0 6 305 275 71
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
