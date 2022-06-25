@@ -8,7 +8,7 @@ const App = () => {
         <h3>Onze website gaat gauw active zijn.</h3>
         <p>
           Vraag stellen:<br />
-          <b>Telefoon:</b>  (+31) 0 6 305 275 71
+          <b>Telefoon:</b>  +31 6 53166015
         </p>
       </header>
     </div>
