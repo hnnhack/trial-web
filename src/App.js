@@ -7,7 +7,7 @@ const App = () => {
         <h1>Welkom naar Fotapijt!</h1>
         <h3>Onze website gaat gauw active zijn.</h3>
         <p>
-          Vraag stellen:<br />
+          Vraag stellen:<br /><br />
           <b>Telefoon:</b>  +31 6 53166015
         </p>
       </header>
