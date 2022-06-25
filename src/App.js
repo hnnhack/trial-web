@@ -1,8 +1,13 @@
 import './App.css';
+import Countdown from './Countdown/Countdown'
 
 const App = () => {
   return (
     <div className="App">
+      <Countdown 
+        timeTillDate="07 06 2022, 6:00 am" 
+        timeFormat="MM DD YYYY, h:mm a" 
+      />
       <header className="App-header">
         <h1>Welkom naar Fotapijt!</h1>
         <h3>Onze website gaat gauw active zijn.</h3>
