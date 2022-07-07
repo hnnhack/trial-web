@@ -5,7 +5,7 @@ const App = () => {
   return (
     <div className="App">
       <Countdown 
-        timeTillDate="07 06 2022, 6:00 am" 
+        timeTillDate="07 15 2022, 6:00 am" 
         timeFormat="MM DD YYYY, h:mm a" 
       />
       <header className="App-header">
